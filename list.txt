@@ -1,0 +1,8 @@
+./arm.sh
+./armstrong.sh
+./great.sh
+./list.txt
+./name.sh
+./palindrome.sh
+./prime.sh
+./rectraDir.sh
